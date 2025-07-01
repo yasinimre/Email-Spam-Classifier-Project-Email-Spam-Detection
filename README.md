@@ -1,4 +1,4 @@
-##This project aims to classify incoming emails as spam or ham (not spam) using machine learning techniques. It was developed in a Jupyter Notebook environment using Python.
+This project aims to classify incoming emails as spam or ham (not spam) using machine learning techniques. It was developed in a Jupyter Notebook environment using Python.
 
 🔍 Project Objective
 The main goal is to build a model that automatically detects whether an email is spam based on its content. This can help filter out unwanted emails more efficiently.
